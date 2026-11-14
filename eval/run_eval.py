@@ -91,11 +91,11 @@ class Rule(System):
 
 
 class Ckpt(System):
-    def __init__(self, path, gen_kwargs, max_words=300):
+    def __init__(self, path, gen_kwargs, max_words=300, device=None):
         from whittle.wrappers import load_wrapper
         import torch
         self.w = load_wrapper(path)
-        self.w.to("cuda" if torch.cuda.is_available() else "cpu")
+        self.w.to(device or ("cuda" if torch.cuda.is_available() else "cpu"))
         self.tag = "ckpt_" + re.sub(r"[^\w.-]+", "_", path.strip("/\\").replace("runs", "").strip("/\\_"))
         self.gen, self.max_words = gen_kwargs, max_words
 
@@ -158,13 +158,13 @@ class OpenAISys(System):
         return [clean_output(o) for o in self.be.generate([HFLora.PROMPT.format(text=s) for s in srcs])]
 
 
-def make_system(spec, gen_kwargs):
+def make_system(spec, gen_kwargs, device=None):
     if spec == "identity":
         return Identity()
     if spec == "rule":
         return Rule()
     if spec.startswith("ckpt:"):
-        return Ckpt(spec[5:], gen_kwargs)
+        return Ckpt(spec[5:], gen_kwargs, device=device)
     if spec.startswith("hf_lora:"):
         return HFLora(spec[8:])
     if spec.startswith("openai:"):
@@ -183,6 +183,7 @@ def main():
     ap.add_argument("--no-nli", action="store_true")
     ap.add_argument("--no-emb", action="store_true")
     ap.add_argument("--outroot", default=os.path.join(ROOT, "runs", "eval"))
+    ap.add_argument("--device", default=None, help="cuda / cpu for checkpoint systems (default auto)")
     ap.add_argument("--tag", default=None, help="override output tag (single system only)")
     args = ap.parse_args()
     gen = {"num_beams": args.num_beams, "max_length_ratio": args.max_length_ratio,
@@ -195,7 +196,7 @@ def main():
     data = {s: load_set(s, args.limit) for s in args.sets}
 
     for spec in args.system:
-        sysm = make_system(spec, gen)
+        sysm = make_system(spec, gen, args.device)
         tag = args.tag or sysm.tag
         od = os.path.join(args.outroot, tag)
         os.makedirs(od, exist_ok=True)

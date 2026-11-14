@@ -22,6 +22,14 @@ from torch.utils.checkpoint import checkpoint
 from .modeling import EttinSeq2Seq, decode
 
 
+def _amp(device):
+    """bf16 autocast on CUDA, no-op elsewhere."""
+    import contextlib
+    if device.type == "cuda":
+        return torch.autocast("cuda", dtype=torch.bfloat16)
+    return contextlib.nullcontext()
+
+
 def chunked_ce(h, labels, head_fn, chunk=4096, label_smoothing=0.0, training=True):
     """Cross-entropy over selected positions without materialising all logits. h:[...,D], labels:[...]"""
     sel = labels != -100
@@ -110,7 +118,7 @@ class EttinS2SWrapper(BaseWrapper):
         for i in range(0, len(srcs), batch_size):
             enc = self.tok(srcs[i:i + batch_size], truncation=True, max_length=self.max_src, padding=True,
                            return_tensors="pt").to(self.device)
-            with torch.autocast(self.device.type, dtype=torch.bfloat16, enabled=self.device.type == "cuda"):
+            with _amp(self.device):
                 ids = self.model.generate(enc.input_ids, enc.attention_mask, **gen)
             outs.extend(decode(self.tok, ids))
         return [o.strip() for o in outs]
@@ -170,7 +178,7 @@ class DecoderWrapper(BaseWrapper):
                 ids[j, L - len(x):] = torch.tensor(x)
                 am[j, L - len(x):] = 1
             mnt = max_new_tokens or max(16, int(max(len(x) for x in seqs) * max_length_ratio))
-            with torch.autocast(self.device.type, dtype=torch.bfloat16, enabled=self.device.type == "cuda"):
+            with _amp(self.device):
                 out = self.model.generate(input_ids=ids.to(self.device), attention_mask=am.to(self.device),
                                           max_new_tokens=mnt, num_beams=num_beams, do_sample=do_sample, top_p=top_p,
                                           temperature=temperature, eos_token_id=sep, pad_token_id=pad,
@@ -212,7 +220,7 @@ class BartWrapper(BaseWrapper):
             enc = self.tok(srcs[i:i + batch_size], truncation=True, max_length=self.max_src, padding=True,
                            return_tensors="pt").to(self.device)
             mnt = max_new_tokens or max(16, int(enc.input_ids.shape[1] * max_length_ratio))
-            with torch.autocast(self.device.type, dtype=torch.bfloat16, enabled=self.device.type == "cuda"):
+            with _amp(self.device):
                 out = self.model.generate(**enc, max_new_tokens=mnt, num_beams=num_beams, do_sample=do_sample,
                                           top_p=top_p, temperature=temperature,
                                           no_repeat_ngram_size=no_repeat_ngram_size,
