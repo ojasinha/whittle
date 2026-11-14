@@ -1,0 +1,10 @@
+runs/
+runs_*.log
+data/raw/
+data/pairs/
+data/gen/pilot_out/
+data/stageA/
+data/smoke/
+.venv/
+__pycache__/
+*.pyc

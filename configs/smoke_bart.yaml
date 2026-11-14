@@ -1,0 +1,22 @@
+# M2 smoke test: Plan A on rule-slopified pairs. Proves the pipeline, not quality.
+out_dir: runs/smoke_bart
+seed: 0
+model:
+  type: bart
+  init: facebook/bart-base
+  label_smoothing: 0.1
+  max_src: 512
+  max_tgt: 512
+data:
+  train: {kind: pairs, path: data/smoke/pairs_train.jsonl}
+  val: {kind: pairs, path: data/smoke/pairs_val.jsonl}
+optim: {lr_pre: 5.0e-5, lr_new: 5.0e-5, weight_decay: 0.01, warmup_ratio: 0.03, schedule: cosine, grad_clip: 1.0}
+train:
+  max_steps: 300
+  max_tokens: 8192
+  grad_accum: 1
+  bf16: true
+  grad_ckpt: true
+  log_every: 20
+  eval_every: 100
+  save_every: 100

@@ -1,0 +1,520 @@
+{"id": "real-0000", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on migration of monarch butterflies. One or two paragraphs."}
+{"id": "real-0001", "register": "essay", "prompt": "Write a paragraph for an essay about the invention of the telephone."}
+{"id": "real-0002", "register": "social", "prompt": "Write a LinkedIn post about the Renaissance."}
+{"id": "real-0003", "register": "docs", "prompt": "Write a short guide on how earthquakes happen. About 150 words."}
+{"id": "real-0004", "register": "social", "prompt": "Write a LinkedIn post about the water cycle."}
+{"id": "real-0005", "register": "advice", "prompt": "Give me advice related to how to give constructive feedback."}
+{"id": "real-0006", "register": "essay", "prompt": "Write a paragraph for an essay about why we dream. Keep it under 200 words."}
+{"id": "real-0007", "register": "story", "prompt": "Write a short story that involves what DNS is."}
+{"id": "real-0008", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the Renaissance. About 150 words."}
+{"id": "real-0009", "register": "story", "prompt": "Write a short story that involves the human heart."}
+{"id": "real-0010", "register": "essay", "prompt": "Write a paragraph for an essay about how electric cars work. Keep it under 200 words."}
+{"id": "real-0011", "register": "advice", "prompt": "Give me advice related to how to train for a first 10k run."}
+{"id": "real-0012", "register": "social", "prompt": "Write a LinkedIn post about how vaccines train the immune system."}
+{"id": "real-0013", "register": "blog", "prompt": "Write a short blog post about what DNS is."}
+{"id": "real-0014", "register": "blog", "prompt": "Write a short blog post about what inflation is."}
+{"id": "real-0015", "register": "blog", "prompt": "Write a short blog post about the history of jazz."}
+{"id": "real-0016", "register": "docs", "prompt": "Write a short guide on why we dream."}
+{"id": "real-0017", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the plot of Moby-Dick."}
+{"id": "real-0018", "register": "explain", "prompt": "Can you explain what a mortgage is in simple terms? Keep it brief."}
+{"id": "real-0019", "register": "docs", "prompt": "Write a short guide on what a black hole is. About 150 words."}
+{"id": "real-0020", "register": "social", "prompt": "Write a LinkedIn post about the human heart. Keep it under 200 words."}
+{"id": "real-0021", "register": "email", "prompt": "Write an email to a colleague summarising what you know about migration of monarch butterflies."}
+{"id": "real-0022", "register": "explain", "prompt": "I'm curious about how to fix a leaking tap. What should I know? About 150 words."}
+{"id": "real-0023", "register": "social", "prompt": "Write a LinkedIn post about the history of the printing press."}
+{"id": "real-0024", "register": "story", "prompt": "Write a short story that involves the Apollo 11 mission. About 150 words."}
+{"id": "real-0025", "register": "explain", "prompt": "Explain how the stock market works."}
+{"id": "real-0026", "register": "qa", "prompt": "What are the most important facts about volcanoes? Keep it brief."}
+{"id": "real-0027", "register": "blog", "prompt": "Write a short blog post about how electric cars work."}
+{"id": "real-0028", "register": "social", "prompt": "Write a LinkedIn post about the rules of cricket. One or two paragraphs."}
+{"id": "real-0029", "register": "explain", "prompt": "Can you explain the Renaissance in simple terms? Keep it under 200 words."}
+{"id": "real-0030", "register": "social", "prompt": "Write a LinkedIn post about what a mortgage is."}
+{"id": "real-0031", "register": "blog", "prompt": "Write a short blog post about the Roman Empire's fall. Keep it brief."}
+{"id": "real-0032", "register": "advice", "prompt": "Give me advice related to the life of Marie Curie. About 150 words."}
+{"id": "real-0033", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on what DNS is."}
+{"id": "real-0034", "register": "explain", "prompt": "I'm curious about the water cycle. What should I know?"}
+{"id": "real-0035", "register": "explain", "prompt": "Explain the history of jazz."}
+{"id": "real-0036", "register": "social", "prompt": "Write a LinkedIn post about how to give constructive feedback."}
+{"id": "real-0037", "register": "explain", "prompt": "Can you explain how compound interest works in simple terms?"}
+{"id": "real-0038", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on what a black hole is. Keep it under 200 words."}
+{"id": "real-0039", "register": "blog", "prompt": "Write a short blog post about the causes of the French Revolution."}
+{"id": "real-0040", "register": "advice", "prompt": "Give me advice related to how solar panels work. About 150 words."}
+{"id": "real-0041", "register": "qa", "prompt": "What are the most important facts about how a bill becomes law in the US? One or two paragraphs."}
+{"id": "real-0042", "register": "essay", "prompt": "Write a paragraph for an essay about the water cycle. Keep it under 200 words."}
+{"id": "real-0043", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the Great Barrier Reef."}
+{"id": "real-0044", "register": "docs", "prompt": "Write a short guide on how a bill becomes law in the US."}
+{"id": "real-0045", "register": "advice", "prompt": "Give me advice related to the water cycle."}
+{"id": "real-0046", "register": "essay", "prompt": "Write a paragraph for an essay about how to care for a sourdough starter. One or two paragraphs."}
+{"id": "real-0047", "register": "advice", "prompt": "Give me advice related to how to write a good cover letter."}
+{"id": "real-0048", "register": "explain", "prompt": "I'm curious about the Silk Road. What should I know? Keep it brief."}
+{"id": "real-0049", "register": "social", "prompt": "Write a LinkedIn post about what a black hole is."}
+{"id": "real-0050", "register": "explain", "prompt": "Explain the benefits of learning a second language."}
+{"id": "real-0051", "register": "social", "prompt": "Write a LinkedIn post about how glaciers form."}
+{"id": "real-0052", "register": "qa", "prompt": "What are the most important facts about remote work pros and cons? Keep it brief."}
+{"id": "real-0053", "register": "docs", "prompt": "Write a short guide on how the stock market works."}
+{"id": "real-0054", "register": "advice", "prompt": "Give me advice related to Shakespeare's Hamlet. Keep it under 200 words."}
+{"id": "real-0055", "register": "essay", "prompt": "Write a paragraph for an essay about volcanoes. One or two paragraphs."}
+{"id": "real-0056", "register": "qa", "prompt": "What are the most important facts about plate tectonics? About 150 words."}
+{"id": "real-0057", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on remote work pros and cons."}
+{"id": "real-0058", "register": "explain", "prompt": "Explain the plot of Moby-Dick."}
+{"id": "real-0059", "register": "explain", "prompt": "I'm curious about what DNS is. What should I know? One or two paragraphs."}
+{"id": "real-0060", "register": "advice", "prompt": "Give me advice related to how credit scores work."}
+{"id": "real-0061", "register": "explain", "prompt": "Explain the rules of cricket."}
+{"id": "real-0062", "register": "qa", "prompt": "What are the most important facts about the rules of cricket?"}
+{"id": "real-0063", "register": "story", "prompt": "Write a short story that involves how to write a good cover letter. About 150 words."}
+{"id": "real-0064", "register": "docs", "prompt": "Write a short guide on how a refrigerator works."}
+{"id": "real-0065", "register": "explain", "prompt": "Explain how vaccines train the immune system."}
+{"id": "real-0066", "register": "story", "prompt": "Write a short story that involves remote work pros and cons. One or two paragraphs."}
+{"id": "real-0067", "register": "docs", "prompt": "Write a short guide on the Roman Empire's fall."}
+{"id": "real-0068", "register": "advice", "prompt": "Give me advice related to the plot of Moby-Dick. Keep it under 200 words."}
+{"id": "real-0069", "register": "qa", "prompt": "What are the most important facts about the invention of the telephone?"}
+{"id": "real-0070", "register": "blog", "prompt": "Write a short blog post about how vaccines train the immune system. Keep it under 200 words."}
+{"id": "real-0071", "register": "social", "prompt": "Write a LinkedIn post about the Cuban Missile Crisis. Keep it under 200 words."}
+{"id": "real-0072", "register": "advice", "prompt": "Give me advice related to the basics of chess openings."}
+{"id": "real-0073", "register": "story", "prompt": "Write a short story that involves the water cycle."}
+{"id": "real-0074", "register": "qa", "prompt": "What are the most important facts about how to make a simple budget spreadsheet? Keep it brief."}
+{"id": "real-0075", "register": "explain", "prompt": "Can you explain how a refrigerator works in simple terms?"}
+{"id": "real-0076", "register": "qa", "prompt": "What are the most important facts about the basics of supply and demand?"}
+{"id": "real-0077", "register": "explain", "prompt": "Can you explain how noise-cancelling headphones work in simple terms?"}
+{"id": "real-0078", "register": "explain", "prompt": "Explain the basics of chess openings. About 150 words."}
+{"id": "real-0079", "register": "docs", "prompt": "Write a short guide on the Apollo 11 mission. Keep it brief."}
+{"id": "real-0080", "register": "advice", "prompt": "Give me advice related to how to start composting at home."}
+{"id": "real-0081", "register": "advice", "prompt": "Give me advice related to how to learn to code."}
+{"id": "real-0082", "register": "qa", "prompt": "What are the most important facts about Shakespeare's Hamlet?"}
+{"id": "real-0083", "register": "explain", "prompt": "I'm curious about how to give constructive feedback. What should I know? Keep it brief."}
+{"id": "real-0084", "register": "explain", "prompt": "I'm curious about why the sky is blue. What should I know? Keep it brief."}
+{"id": "real-0085", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the causes of World War I."}
+{"id": "real-0086", "register": "social", "prompt": "Write a LinkedIn post about the causes of World War I. Keep it brief."}
+{"id": "real-0087", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to fix a leaking tap. About 150 words."}
+{"id": "real-0088", "register": "explain", "prompt": "Can you explain how to fix a leaking tap in simple terms?"}
+{"id": "real-0089", "register": "explain", "prompt": "Explain photosynthesis. Keep it under 200 words."}
+{"id": "real-0090", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the Great Barrier Reef."}
+{"id": "real-0091", "register": "explain", "prompt": "Can you explain how GPS works in simple terms?"}
+{"id": "real-0092", "register": "story", "prompt": "Write a short story that involves how tides work. Keep it brief."}
+{"id": "real-0093", "register": "story", "prompt": "Write a short story that involves what a black hole is. One or two paragraphs."}
+{"id": "real-0094", "register": "explain", "prompt": "Explain intermittent fasting. About 150 words."}
+{"id": "real-0095", "register": "qa", "prompt": "What are the most important facts about how to write a good cover letter?"}
+{"id": "real-0096", "register": "explain", "prompt": "Can you explain how to train for a first 10k run in simple terms?"}
+{"id": "real-0097", "register": "advice", "prompt": "Give me advice related to how to care for a sourdough starter. One or two paragraphs."}
+{"id": "real-0098", "register": "explain", "prompt": "Can you explain why the sky is blue in simple terms? Keep it brief."}
+{"id": "real-0099", "register": "story", "prompt": "Write a short story that involves how a refrigerator works."}
+{"id": "real-0100", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how earthquakes happen. About 150 words."}
+{"id": "real-0101", "register": "social", "prompt": "Write a LinkedIn post about the Apollo 11 mission."}
+{"id": "real-0102", "register": "blog", "prompt": "Write a short blog post about the Industrial Revolution. Keep it under 200 words."}
+{"id": "real-0103", "register": "docs", "prompt": "Write a short guide on how compound interest works."}
+{"id": "real-0104", "register": "explain", "prompt": "Can you explain how to care for a sourdough starter in simple terms?"}
+{"id": "real-0105", "register": "blog", "prompt": "Write a short blog post about how to budget on a low income."}
+{"id": "real-0106", "register": "social", "prompt": "Write a LinkedIn post about how earthquakes happen. About 150 words."}
+{"id": "real-0107", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on Shakespeare's Hamlet. About 150 words."}
+{"id": "real-0108", "register": "social", "prompt": "Write a LinkedIn post about how GPS works."}
+{"id": "real-0109", "register": "social", "prompt": "Write a LinkedIn post about why we dream."}
+{"id": "real-0110", "register": "docs", "prompt": "Write a short guide on intermittent fasting."}
+{"id": "real-0111", "register": "story", "prompt": "Write a short story that involves the history of the bicycle."}
+{"id": "real-0112", "register": "docs", "prompt": "Write a short guide on how to care for a sourdough starter."}
+{"id": "real-0113", "register": "advice", "prompt": "Give me advice related to the causes of World War I."}
+{"id": "real-0114", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to grow tomatoes. About 150 words."}
+{"id": "real-0115", "register": "social", "prompt": "Write a LinkedIn post about how to budget on a low income."}
+{"id": "real-0116", "register": "social", "prompt": "Write a LinkedIn post about how credit scores work. One or two paragraphs."}
+{"id": "real-0117", "register": "explain", "prompt": "Can you explain what inflation is in simple terms?"}
+{"id": "real-0118", "register": "explain", "prompt": "Can you explain how to start composting at home in simple terms? Keep it under 200 words."}
+{"id": "real-0119", "register": "explain", "prompt": "Explain the Great Barrier Reef."}
+{"id": "real-0120", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how a refrigerator works."}
+{"id": "real-0121", "register": "qa", "prompt": "What are the most important facts about how the stock market works?"}
+{"id": "real-0122", "register": "docs", "prompt": "Write a short guide on the life cycle of a star. Keep it under 200 words."}
+{"id": "real-0123", "register": "qa", "prompt": "What are the most important facts about how to train for a first 10k run?"}
+{"id": "real-0124", "register": "social", "prompt": "Write a LinkedIn post about how electric cars work."}
+{"id": "real-0125", "register": "blog", "prompt": "Write a short blog post about intermittent fasting. One or two paragraphs."}
+{"id": "real-0126", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how tides work."}
+{"id": "real-0127", "register": "explain", "prompt": "Explain how to negotiate a salary."}
+{"id": "real-0128", "register": "advice", "prompt": "Give me advice related to how vaccines train the immune system. Keep it brief."}
+{"id": "real-0129", "register": "explain", "prompt": "Can you explain what DNS is in simple terms?"}
+{"id": "real-0130", "register": "essay", "prompt": "Write a paragraph for an essay about the Apollo 11 mission."}
+{"id": "real-0131", "register": "explain", "prompt": "I'm curious about how a bill becomes law in the US. What should I know?"}
+{"id": "real-0132", "register": "blog", "prompt": "Write a short blog post about how to brew pour-over coffee. Keep it brief."}
+{"id": "real-0133", "register": "explain", "prompt": "Explain how a bill becomes law in the US."}
+{"id": "real-0134", "register": "story", "prompt": "Write a short story that involves why we dream."}
+{"id": "real-0135", "register": "qa", "prompt": "What are the most important facts about the plot of Moby-Dick?"}
+{"id": "real-0136", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the basics of meditation."}
+{"id": "real-0137", "register": "qa", "prompt": "What are the most important facts about how to brew pour-over coffee? Keep it brief."}
+{"id": "real-0138", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the Roman Empire's fall."}
+{"id": "real-0139", "register": "social", "prompt": "Write a LinkedIn post about how a bill becomes law in the US."}
+{"id": "real-0140", "register": "qa", "prompt": "What are the most important facts about the causes of World War I? Keep it brief."}
+{"id": "real-0141", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to brew pour-over coffee."}
+{"id": "real-0142", "register": "explain", "prompt": "Explain the Roman Empire's fall."}
+{"id": "real-0143", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to take better smartphone photos."}
+{"id": "real-0144", "register": "email", "prompt": "Write an email to a colleague summarising what you know about Shakespeare's Hamlet."}
+{"id": "real-0145", "register": "explain", "prompt": "Explain how bees make honey."}
+{"id": "real-0146", "register": "story", "prompt": "Write a short story that involves how to start composting at home. Keep it under 200 words."}
+{"id": "real-0147", "register": "qa", "prompt": "What are the most important facts about how electric cars work?"}
+{"id": "real-0148", "register": "blog", "prompt": "Write a short blog post about how earthquakes happen. One or two paragraphs."}
+{"id": "real-0149", "register": "essay", "prompt": "Write a paragraph for an essay about the Byzantine Empire."}
+{"id": "real-0150", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on why we dream."}
+{"id": "real-0151", "register": "explain", "prompt": "Can you explain intermittent fasting in simple terms?"}
+{"id": "real-0152", "register": "explain", "prompt": "Can you explain the rules of cricket in simple terms? About 150 words."}
+{"id": "real-0153", "register": "story", "prompt": "Write a short story that involves how compound interest works."}
+{"id": "real-0154", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to learn to code."}
+{"id": "real-0155", "register": "explain", "prompt": "Can you explain how bees make honey in simple terms? Keep it under 200 words."}
+{"id": "real-0156", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how noise-cancelling headphones work. About 150 words."}
+{"id": "real-0157", "register": "explain", "prompt": "Can you explain how to prepare for a job interview in simple terms?"}
+{"id": "real-0158", "register": "blog", "prompt": "Write a short blog post about why we dream. Keep it under 200 words."}
+{"id": "real-0159", "register": "essay", "prompt": "Write a paragraph for an essay about how vaccines train the immune system. Keep it under 200 words."}
+{"id": "real-0160", "register": "explain", "prompt": "I'm curious about how to negotiate a salary. What should I know? Keep it under 200 words."}
+{"id": "real-0161", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how tides work."}
+{"id": "real-0162", "register": "explain", "prompt": "I'm curious about the Apollo 11 mission. What should I know? About 150 words."}
+{"id": "real-0163", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to prepare for a job interview."}
+{"id": "real-0164", "register": "essay", "prompt": "Write a paragraph for an essay about how to fix a leaking tap."}
+{"id": "real-0165", "register": "qa", "prompt": "What are the most important facts about the human heart? Keep it under 200 words."}
+{"id": "real-0166", "register": "docs", "prompt": "Write a short guide on how GPS works."}
+{"id": "real-0167", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the Silk Road."}
+{"id": "real-0168", "register": "docs", "prompt": "Write a short guide on how to grow tomatoes. About 150 words."}
+{"id": "real-0169", "register": "explain", "prompt": "I'm curious about how to start composting at home. What should I know?"}
+{"id": "real-0170", "register": "explain", "prompt": "Can you explain how to make a simple budget spreadsheet in simple terms?"}
+{"id": "real-0171", "register": "docs", "prompt": "Write a short guide on the Great Barrier Reef."}
+{"id": "real-0172", "register": "essay", "prompt": "Write a paragraph for an essay about intermittent fasting."}
+{"id": "real-0173", "register": "blog", "prompt": "Write a short blog post about the plot of Moby-Dick."}
+{"id": "real-0174", "register": "qa", "prompt": "What are the most important facts about the life cycle of a star?"}
+{"id": "real-0175", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how a bill becomes law in the US."}
+{"id": "real-0176", "register": "advice", "prompt": "Give me advice related to the rules of cricket."}
+{"id": "real-0177", "register": "blog", "prompt": "Write a short blog post about how to take better smartphone photos. One or two paragraphs."}
+{"id": "real-0178", "register": "explain", "prompt": "I'm curious about how to train for a first 10k run. What should I know?"}
+{"id": "real-0179", "register": "explain", "prompt": "Can you explain the basics of chess openings in simple terms?"}
+{"id": "real-0180", "register": "advice", "prompt": "Give me advice related to how the stock market works."}
+{"id": "real-0181", "register": "explain", "prompt": "I'm curious about the invention of the telephone. What should I know?"}
+{"id": "real-0182", "register": "explain", "prompt": "I'm curious about the Industrial Revolution. What should I know? One or two paragraphs."}
+{"id": "real-0183", "register": "docs", "prompt": "Write a short guide on the causes of World War I. One or two paragraphs."}
+{"id": "real-0184", "register": "story", "prompt": "Write a short story that involves how to train for a first 10k run."}
+{"id": "real-0185", "register": "explain", "prompt": "Explain how to fix a leaking tap."}
+{"id": "real-0186", "register": "social", "prompt": "Write a LinkedIn post about how a refrigerator works."}
+{"id": "real-0187", "register": "essay", "prompt": "Write a paragraph for an essay about how earthquakes happen. Keep it brief."}
+{"id": "real-0188", "register": "social", "prompt": "Write a LinkedIn post about volcanoes. One or two paragraphs."}
+{"id": "real-0189", "register": "blog", "prompt": "Write a short blog post about how to learn to code."}
+{"id": "real-0190", "register": "explain", "prompt": "Can you explain the causes of the French Revolution in simple terms? Keep it under 200 words."}
+{"id": "real-0191", "register": "docs", "prompt": "Write a short guide on how to make a simple budget spreadsheet."}
+{"id": "real-0192", "register": "story", "prompt": "Write a short story that involves how to make a simple budget spreadsheet. Keep it brief."}
+{"id": "real-0193", "register": "essay", "prompt": "Write a paragraph for an essay about the Renaissance."}
+{"id": "real-0194", "register": "social", "prompt": "Write a LinkedIn post about how to care for a sourdough starter. Keep it under 200 words."}
+{"id": "real-0195", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to give constructive feedback. About 150 words."}
+{"id": "real-0196", "register": "explain", "prompt": "Can you explain the Silk Road in simple terms?"}
+{"id": "real-0197", "register": "explain", "prompt": "I'm curious about how electric cars work. What should I know?"}
+{"id": "real-0198", "register": "docs", "prompt": "Write a short guide on what machine learning is. One or two paragraphs."}
+{"id": "real-0199", "register": "essay", "prompt": "Write a paragraph for an essay about the basics of chess openings."}
+{"id": "real-0200", "register": "explain", "prompt": "I'm curious about the basics of supply and demand. What should I know? Keep it under 200 words."}
+{"id": "real-0201", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how credit scores work."}
+{"id": "real-0202", "register": "docs", "prompt": "Write a short guide on the basics of supply and demand."}
+{"id": "real-0203", "register": "qa", "prompt": "What are the most important facts about the Renaissance?"}
+{"id": "real-0204", "register": "blog", "prompt": "Write a short blog post about the rules of cricket."}
+{"id": "real-0205", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the Byzantine Empire."}
+{"id": "real-0206", "register": "story", "prompt": "Write a short story that involves how a bill becomes law in the US. One or two paragraphs."}
+{"id": "real-0207", "register": "social", "prompt": "Write a LinkedIn post about the difference between weather and climate. Keep it brief."}
+{"id": "real-0208", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the history of coffee."}
+{"id": "real-0209", "register": "docs", "prompt": "Write a short guide on why the sky is blue."}
+{"id": "real-0210", "register": "explain", "prompt": "Explain how to make a simple budget spreadsheet. Keep it under 200 words."}
+{"id": "real-0211", "register": "advice", "prompt": "Give me advice related to how to fix a leaking tap."}
+{"id": "real-0212", "register": "blog", "prompt": "Write a short blog post about plate tectonics. One or two paragraphs."}
+{"id": "real-0213", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to write a good cover letter."}
+{"id": "real-0214", "register": "advice", "prompt": "Give me advice related to how a refrigerator works. Keep it brief."}
+{"id": "real-0215", "register": "story", "prompt": "Write a short story that involves how solar panels work. One or two paragraphs."}
+{"id": "real-0216", "register": "story", "prompt": "Write a short story that involves intermittent fasting. About 150 words."}
+{"id": "real-0217", "register": "story", "prompt": "Write a short story that involves how to care for a sourdough starter."}
+{"id": "real-0218", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the difference between weather and climate. Keep it under 200 words."}
+{"id": "real-0219", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how solar panels work. About 150 words."}
+{"id": "real-0220", "register": "social", "prompt": "Write a LinkedIn post about how to negotiate a salary. Keep it under 200 words."}
+{"id": "real-0221", "register": "essay", "prompt": "Write a paragraph for an essay about urban beekeeping."}
+{"id": "real-0222", "register": "explain", "prompt": "Explain Shakespeare's Hamlet."}
+{"id": "real-0223", "register": "advice", "prompt": "Give me advice related to the human heart."}
+{"id": "real-0224", "register": "story", "prompt": "Write a short story that involves Shakespeare's Hamlet. One or two paragraphs."}
+{"id": "real-0225", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how earthquakes happen. Keep it under 200 words."}
+{"id": "real-0226", "register": "explain", "prompt": "I'm curious about the difference between weather and climate. What should I know? Keep it brief."}
+{"id": "real-0227", "register": "explain", "prompt": "I'm curious about how vaccines train the immune system. What should I know? One or two paragraphs."}
+{"id": "real-0228", "register": "social", "prompt": "Write a LinkedIn post about the history of jazz. About 150 words."}
+{"id": "real-0229", "register": "blog", "prompt": "Write a short blog post about Shakespeare's Hamlet. Keep it under 200 words."}
+{"id": "real-0230", "register": "docs", "prompt": "Write a short guide on the history of the bicycle."}
+{"id": "real-0231", "register": "essay", "prompt": "Write a paragraph for an essay about the history of the bicycle. Keep it under 200 words."}
+{"id": "real-0232", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the Roman Empire's fall. Keep it brief."}
+{"id": "real-0233", "register": "qa", "prompt": "What are the most important facts about how to budget on a low income?"}
+{"id": "real-0234", "register": "essay", "prompt": "Write a paragraph for an essay about the Great Barrier Reef."}
+{"id": "real-0235", "register": "essay", "prompt": "Write a paragraph for an essay about migration of monarch butterflies."}
+{"id": "real-0236", "register": "docs", "prompt": "Write a short guide on remote work pros and cons. One or two paragraphs."}
+{"id": "real-0237", "register": "explain", "prompt": "Explain how to take better smartphone photos."}
+{"id": "real-0238", "register": "story", "prompt": "Write a short story that involves how glaciers form."}
+{"id": "real-0239", "register": "explain", "prompt": "Can you explain what a black hole is in simple terms? Keep it under 200 words."}
+{"id": "real-0240", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how the stock market works."}
+{"id": "real-0241", "register": "story", "prompt": "Write a short story that involves how earthquakes happen."}
+{"id": "real-0242", "register": "blog", "prompt": "Write a short blog post about how solar panels work."}
+{"id": "real-0243", "register": "essay", "prompt": "Write a paragraph for an essay about how to brew pour-over coffee."}
+{"id": "real-0244", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to grow tomatoes. Keep it brief."}
+{"id": "real-0245", "register": "blog", "prompt": "Write a short blog post about volcanoes."}
+{"id": "real-0246", "register": "docs", "prompt": "Write a short guide on how to take better smartphone photos."}
+{"id": "real-0247", "register": "qa", "prompt": "What are the most important facts about how to give constructive feedback? About 150 words."}
+{"id": "real-0248", "register": "docs", "prompt": "Write a short guide on how to give constructive feedback."}
+{"id": "real-0249", "register": "explain", "prompt": "Can you explain the difference between weather and climate in simple terms? Keep it brief."}
+{"id": "real-0250", "register": "advice", "prompt": "Give me advice related to what a black hole is."}
+{"id": "real-0251", "register": "qa", "prompt": "What are the most important facts about how to negotiate a salary?"}
+{"id": "real-0252", "register": "explain", "prompt": "Can you explain photosynthesis in simple terms?"}
+{"id": "real-0253", "register": "blog", "prompt": "Write a short blog post about the history of the bicycle. One or two paragraphs."}
+{"id": "real-0254", "register": "social", "prompt": "Write a LinkedIn post about plate tectonics. Keep it under 200 words."}
+{"id": "real-0255", "register": "docs", "prompt": "Write a short guide on the human heart. Keep it under 200 words."}
+{"id": "real-0256", "register": "explain", "prompt": "I'm curious about how the stock market works. What should I know?"}
+{"id": "real-0257", "register": "explain", "prompt": "I'm curious about how bees make honey. What should I know?"}
+{"id": "real-0258", "register": "social", "prompt": "Write a LinkedIn post about how to learn to code."}
+{"id": "real-0259", "register": "explain", "prompt": "Can you explain how to learn to code in simple terms?"}
+{"id": "real-0260", "register": "story", "prompt": "Write a short story that involves the Renaissance."}
+{"id": "real-0261", "register": "blog", "prompt": "Write a short blog post about why the sky is blue."}
+{"id": "real-0262", "register": "qa", "prompt": "What are the most important facts about the Silk Road?"}
+{"id": "real-0263", "register": "docs", "prompt": "Write a short guide on how tides work. Keep it under 200 words."}
+{"id": "real-0264", "register": "advice", "prompt": "Give me advice related to the invention of the telephone. Keep it brief."}
+{"id": "real-0265", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to fix a leaking tap."}
+{"id": "real-0266", "register": "explain", "prompt": "Explain what machine learning is. About 150 words."}
+{"id": "real-0267", "register": "story", "prompt": "Write a short story that involves the causes of World War I."}
+{"id": "real-0268", "register": "essay", "prompt": "Write a paragraph for an essay about the history of jazz. About 150 words."}
+{"id": "real-0269", "register": "explain", "prompt": "Explain remote work pros and cons. Keep it under 200 words."}
+{"id": "real-0270", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how the stock market works. Keep it under 200 words."}
+{"id": "real-0271", "register": "blog", "prompt": "Write a short blog post about how compound interest works. About 150 words."}
+{"id": "real-0272", "register": "explain", "prompt": "Can you explain the history of the bicycle in simple terms?"}
+{"id": "real-0273", "register": "qa", "prompt": "What are the most important facts about how noise-cancelling headphones work?"}
+{"id": "real-0274", "register": "qa", "prompt": "What are the most important facts about the benefits of learning a second language? One or two paragraphs."}
+{"id": "real-0275", "register": "explain", "prompt": "Explain how credit scores work."}
+{"id": "real-0276", "register": "explain", "prompt": "Explain the basics of meditation."}
+{"id": "real-0277", "register": "explain", "prompt": "I'm curious about migration of monarch butterflies. What should I know? About 150 words."}
+{"id": "real-0278", "register": "advice", "prompt": "Give me advice related to urban beekeeping."}
+{"id": "real-0279", "register": "explain", "prompt": "I'm curious about photosynthesis. What should I know? Keep it under 200 words."}
+{"id": "real-0280", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the plot of Moby-Dick."}
+{"id": "real-0281", "register": "social", "prompt": "Write a LinkedIn post about how the stock market works."}
+{"id": "real-0282", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to budget on a low income."}
+{"id": "real-0283", "register": "story", "prompt": "Write a short story that involves the history of the printing press. Keep it brief."}
+{"id": "real-0284", "register": "story", "prompt": "Write a short story that involves how the stock market works. Keep it brief."}
+{"id": "real-0285", "register": "advice", "prompt": "Give me advice related to the Silk Road."}
+{"id": "real-0286", "register": "essay", "prompt": "Write a paragraph for an essay about the causes of World War I."}
+{"id": "real-0287", "register": "docs", "prompt": "Write a short guide on plate tectonics."}
+{"id": "real-0288", "register": "docs", "prompt": "Write a short guide on the history of the printing press."}
+{"id": "real-0289", "register": "qa", "prompt": "What are the most important facts about the Apollo 11 mission? One or two paragraphs."}
+{"id": "real-0290", "register": "story", "prompt": "Write a short story that involves how noise-cancelling headphones work. Keep it brief."}
+{"id": "real-0291", "register": "essay", "prompt": "Write a paragraph for an essay about the history of the printing press."}
+{"id": "real-0292", "register": "qa", "prompt": "What are the most important facts about how to fix a leaking tap?"}
+{"id": "real-0293", "register": "docs", "prompt": "Write a short guide on the Cuban Missile Crisis. Keep it brief."}
+{"id": "real-0294", "register": "explain", "prompt": "Can you explain what machine learning is in simple terms?"}
+{"id": "real-0295", "register": "explain", "prompt": "I'm curious about the Renaissance. What should I know?"}
+{"id": "real-0296", "register": "social", "prompt": "Write a LinkedIn post about why the sky is blue."}
+{"id": "real-0297", "register": "essay", "prompt": "Write a paragraph for an essay about how to prepare for a job interview."}
+{"id": "real-0298", "register": "social", "prompt": "Write a LinkedIn post about the invention of the telephone."}
+{"id": "real-0299", "register": "explain", "prompt": "Explain how to write a good cover letter."}
+{"id": "real-0300", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to brew pour-over coffee."}
+{"id": "real-0301", "register": "qa", "prompt": "What are the most important facts about how tides work?"}
+{"id": "real-0302", "register": "advice", "prompt": "Give me advice related to how to budget on a low income."}
+{"id": "real-0303", "register": "docs", "prompt": "Write a short guide on what inflation is."}
+{"id": "real-0304", "register": "explain", "prompt": "I'm curious about the basics of chess openings. What should I know?"}
+{"id": "real-0305", "register": "qa", "prompt": "What are the most important facts about what inflation is?"}
+{"id": "real-0306", "register": "docs", "prompt": "Write a short guide on the life of Marie Curie."}
+{"id": "real-0307", "register": "essay", "prompt": "Write a paragraph for an essay about how antibiotics work. One or two paragraphs."}
+{"id": "real-0308", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the human heart."}
+{"id": "real-0309", "register": "advice", "prompt": "Give me advice related to the Roman Empire's fall."}
+{"id": "real-0310", "register": "explain", "prompt": "Explain why we dream."}
+{"id": "real-0311", "register": "qa", "prompt": "What are the most important facts about how glaciers form?"}
+{"id": "real-0312", "register": "docs", "prompt": "Write a short guide on how to prepare for a job interview."}
+{"id": "real-0313", "register": "qa", "prompt": "What are the most important facts about the Roman Empire's fall? One or two paragraphs."}
+{"id": "real-0314", "register": "advice", "prompt": "Give me advice related to the causes of the French Revolution."}
+{"id": "real-0315", "register": "essay", "prompt": "Write a paragraph for an essay about photosynthesis. One or two paragraphs."}
+{"id": "real-0316", "register": "social", "prompt": "Write a LinkedIn post about how bees make honey."}
+{"id": "real-0317", "register": "blog", "prompt": "Write a short blog post about the water cycle. Keep it under 200 words."}
+{"id": "real-0318", "register": "qa", "prompt": "What are the most important facts about intermittent fasting? Keep it brief."}
+{"id": "real-0319", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to budget on a low income."}
+{"id": "real-0320", "register": "explain", "prompt": "Explain how to learn to code."}
+{"id": "real-0321", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to care for a sourdough starter. One or two paragraphs."}
+{"id": "real-0322", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the basics of meditation."}
+{"id": "real-0323", "register": "social", "prompt": "Write a LinkedIn post about how to brew pour-over coffee."}
+{"id": "real-0324", "register": "explain", "prompt": "Explain the history of the bicycle. About 150 words."}
+{"id": "real-0325", "register": "explain", "prompt": "Can you explain how vaccines train the immune system in simple terms? Keep it under 200 words."}
+{"id": "real-0326", "register": "story", "prompt": "Write a short story that involves volcanoes. Keep it under 200 words."}
+{"id": "real-0327", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the basics of chess openings."}
+{"id": "real-0328", "register": "explain", "prompt": "I'm curious about how to brew pour-over coffee. What should I know?"}
+{"id": "real-0329", "register": "explain", "prompt": "Explain how electric cars work."}
+{"id": "real-0330", "register": "social", "prompt": "Write a LinkedIn post about how noise-cancelling headphones work."}
+{"id": "real-0331", "register": "docs", "prompt": "Write a short guide on the plot of Moby-Dick. Keep it brief."}
+{"id": "real-0332", "register": "advice", "prompt": "Give me advice related to the history of the bicycle."}
+{"id": "real-0333", "register": "explain", "prompt": "I'm curious about Shakespeare's Hamlet. What should I know?"}
+{"id": "real-0334", "register": "explain", "prompt": "Explain urban beekeeping."}
+{"id": "real-0335", "register": "explain", "prompt": "Can you explain how to grow tomatoes in simple terms? One or two paragraphs."}
+{"id": "real-0336", "register": "story", "prompt": "Write a short story that involves photosynthesis."}
+{"id": "real-0337", "register": "qa", "prompt": "What are the most important facts about what DNS is? Keep it under 200 words."}
+{"id": "real-0338", "register": "explain", "prompt": "Can you explain volcanoes in simple terms?"}
+{"id": "real-0339", "register": "explain", "prompt": "Explain the causes of World War I."}
+{"id": "real-0340", "register": "explain", "prompt": "Can you explain the plot of Moby-Dick in simple terms?"}
+{"id": "real-0341", "register": "docs", "prompt": "Write a short guide on how credit scores work. Keep it under 200 words."}
+{"id": "real-0342", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the basics of supply and demand."}
+{"id": "real-0343", "register": "explain", "prompt": "Explain how to brew pour-over coffee. About 150 words."}
+{"id": "real-0344", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to start composting at home."}
+{"id": "real-0345", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how bees make honey. Keep it brief."}
+{"id": "real-0346", "register": "social", "prompt": "Write a LinkedIn post about remote work pros and cons."}
+{"id": "real-0347", "register": "explain", "prompt": "Explain how solar panels work."}
+{"id": "real-0348", "register": "blog", "prompt": "Write a short blog post about the Apollo 11 mission."}
+{"id": "real-0349", "register": "email", "prompt": "Write an email to a colleague summarising what you know about what inflation is. Keep it under 200 words."}
+{"id": "real-0350", "register": "explain", "prompt": "Explain how noise-cancelling headphones work. Keep it under 200 words."}
+{"id": "real-0351", "register": "story", "prompt": "Write a short story that involves how to learn to code. Keep it under 200 words."}
+{"id": "real-0352", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to give constructive feedback."}
+{"id": "real-0353", "register": "explain", "prompt": "Explain the Apollo 11 mission."}
+{"id": "real-0354", "register": "explain", "prompt": "Can you explain the water cycle in simple terms? Keep it under 200 words."}
+{"id": "real-0355", "register": "explain", "prompt": "Explain the history of coffee. Keep it brief."}
+{"id": "real-0356", "register": "explain", "prompt": "Explain the history of the printing press. About 150 words."}
+{"id": "real-0357", "register": "explain", "prompt": "I'm curious about why we dream. What should I know? About 150 words."}
+{"id": "real-0358", "register": "social", "prompt": "Write a LinkedIn post about why sleep matters. Keep it under 200 words."}
+{"id": "real-0359", "register": "email", "prompt": "Write an email to a colleague summarising what you know about plate tectonics. About 150 words."}
+{"id": "real-0360", "register": "blog", "prompt": "Write a short blog post about the Renaissance. One or two paragraphs."}
+{"id": "real-0361", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the basics of supply and demand."}
+{"id": "real-0362", "register": "qa", "prompt": "What are the most important facts about how vaccines train the immune system? About 150 words."}
+{"id": "real-0363", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how compound interest works."}
+{"id": "real-0364", "register": "social", "prompt": "Write a LinkedIn post about the life of Marie Curie."}
+{"id": "real-0365", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the rules of cricket."}
+{"id": "real-0366", "register": "advice", "prompt": "Give me advice related to what DNS is. About 150 words."}
+{"id": "real-0367", "register": "explain", "prompt": "Can you explain the invention of the telephone in simple terms? Keep it brief."}
+{"id": "real-0368", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the water cycle."}
+{"id": "real-0369", "register": "story", "prompt": "Write a short story that involves why sleep matters. One or two paragraphs."}
+{"id": "real-0370", "register": "qa", "prompt": "What are the most important facts about photosynthesis?"}
+{"id": "real-0371", "register": "essay", "prompt": "Write a paragraph for an essay about what inflation is."}
+{"id": "real-0372", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the Cuban Missile Crisis."}
+{"id": "real-0373", "register": "blog", "prompt": "Write a short blog post about the history of coffee. Keep it brief."}
+{"id": "real-0374", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to make a simple budget spreadsheet."}
+{"id": "real-0375", "register": "social", "prompt": "Write a LinkedIn post about Shakespeare's Hamlet."}
+{"id": "real-0376", "register": "social", "prompt": "Write a LinkedIn post about the Silk Road."}
+{"id": "real-0377", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the life of Marie Curie. Keep it brief."}
+{"id": "real-0378", "register": "qa", "prompt": "What are the most important facts about the history of coffee?"}
+{"id": "real-0379", "register": "blog", "prompt": "Write a short blog post about the difference between weather and climate."}
+{"id": "real-0380", "register": "explain", "prompt": "I'm curious about how to budget on a low income. What should I know?"}
+{"id": "real-0381", "register": "qa", "prompt": "What are the most important facts about how credit scores work? One or two paragraphs."}
+{"id": "real-0382", "register": "qa", "prompt": "What are the most important facts about the history of the printing press?"}
+{"id": "real-0383", "register": "email", "prompt": "Write an email to a colleague summarising what you know about what machine learning is. Keep it under 200 words."}
+{"id": "real-0384", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how compound interest works."}
+{"id": "real-0385", "register": "explain", "prompt": "Can you explain the basics of meditation in simple terms?"}
+{"id": "real-0386", "register": "advice", "prompt": "Give me advice related to volcanoes."}
+{"id": "real-0387", "register": "explain", "prompt": "I'm curious about how to write a good cover letter. What should I know? About 150 words."}
+{"id": "real-0388", "register": "story", "prompt": "Write a short story that involves the basics of supply and demand. Keep it brief."}
+{"id": "real-0389", "register": "blog", "prompt": "Write a short blog post about remote work pros and cons."}
+{"id": "real-0390", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how credit scores work. One or two paragraphs."}
+{"id": "real-0391", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how glaciers form."}
+{"id": "real-0392", "register": "explain", "prompt": "Can you explain how electric cars work in simple terms?"}
+{"id": "real-0393", "register": "social", "prompt": "Write a LinkedIn post about what machine learning is."}
+{"id": "real-0394", "register": "explain", "prompt": "Can you explain urban beekeeping in simple terms? About 150 words."}
+{"id": "real-0395", "register": "explain", "prompt": "Can you explain how credit scores work in simple terms?"}
+{"id": "real-0396", "register": "advice", "prompt": "Give me advice related to how to prepare for a job interview."}
+{"id": "real-0397", "register": "qa", "prompt": "What are the most important facts about how GPS works?"}
+{"id": "real-0398", "register": "blog", "prompt": "Write a short blog post about what a mortgage is."}
+{"id": "real-0399", "register": "explain", "prompt": "Can you explain the human heart in simple terms?"}
+{"id": "real-0400", "register": "explain", "prompt": "I'm curious about urban beekeeping. What should I know? About 150 words."}
+{"id": "real-0401", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how electric cars work."}
+{"id": "real-0402", "register": "story", "prompt": "Write a short story that involves what machine learning is."}
+{"id": "real-0403", "register": "social", "prompt": "Write a LinkedIn post about the causes of the French Revolution. One or two paragraphs."}
+{"id": "real-0404", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the invention of the telephone. One or two paragraphs."}
+{"id": "real-0405", "register": "essay", "prompt": "Write a paragraph for an essay about how GPS works."}
+{"id": "real-0406", "register": "docs", "prompt": "Write a short guide on what a mortgage is."}
+{"id": "real-0407", "register": "essay", "prompt": "Write a paragraph for an essay about the history of coffee. Keep it brief."}
+{"id": "real-0408", "register": "essay", "prompt": "Write a paragraph for an essay about the Silk Road."}
+{"id": "real-0409", "register": "docs", "prompt": "Write a short guide on how glaciers form. One or two paragraphs."}
+{"id": "real-0410", "register": "explain", "prompt": "Can you explain how to negotiate a salary in simple terms? Keep it brief."}
+{"id": "real-0411", "register": "social", "prompt": "Write a LinkedIn post about the basics of supply and demand."}
+{"id": "real-0412", "register": "docs", "prompt": "Write a short guide on the invention of the telephone."}
+{"id": "real-0413", "register": "advice", "prompt": "Give me advice related to what a mortgage is."}
+{"id": "real-0414", "register": "docs", "prompt": "Write a short guide on the history of coffee. Keep it brief."}
+{"id": "real-0415", "register": "qa", "prompt": "What are the most important facts about the water cycle? About 150 words."}
+{"id": "real-0416", "register": "essay", "prompt": "Write a paragraph for an essay about how to learn to code. Keep it under 200 words."}
+{"id": "real-0417", "register": "email", "prompt": "Write an email to a colleague summarising what you know about urban beekeeping. Keep it brief."}
+{"id": "real-0418", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the life cycle of a star."}
+{"id": "real-0419", "register": "social", "prompt": "Write a LinkedIn post about migration of monarch butterflies. Keep it under 200 words."}
+{"id": "real-0420", "register": "story", "prompt": "Write a short story that involves the Byzantine Empire. Keep it brief."}
+{"id": "real-0421", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the basics of chess openings."}
+{"id": "real-0422", "register": "explain", "prompt": "Can you explain plate tectonics in simple terms?"}
+{"id": "real-0423", "register": "explain", "prompt": "I'm curious about how a refrigerator works. What should I know? About 150 words."}
+{"id": "real-0424", "register": "qa", "prompt": "What are the most important facts about the life of Marie Curie? One or two paragraphs."}
+{"id": "real-0425", "register": "docs", "prompt": "Write a short guide on the basics of meditation."}
+{"id": "real-0426", "register": "qa", "prompt": "What are the most important facts about the history of jazz? Keep it brief."}
+{"id": "real-0427", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the history of coffee. About 150 words."}
+{"id": "real-0428", "register": "explain", "prompt": "Explain the Industrial Revolution."}
+{"id": "real-0429", "register": "essay", "prompt": "Write a paragraph for an essay about how to train for a first 10k run. Keep it brief."}
+{"id": "real-0430", "register": "explain", "prompt": "Can you explain the benefits of learning a second language in simple terms? Keep it brief."}
+{"id": "real-0431", "register": "explain", "prompt": "Explain how to start composting at home. Keep it under 200 words."}
+{"id": "real-0432", "register": "explain", "prompt": "Can you explain how to brew pour-over coffee in simple terms?"}
+{"id": "real-0433", "register": "blog", "prompt": "Write a short blog post about the basics of meditation."}
+{"id": "real-0434", "register": "blog", "prompt": "Write a short blog post about how to negotiate a salary."}
+{"id": "real-0435", "register": "story", "prompt": "Write a short story that involves how credit scores work."}
+{"id": "real-0436", "register": "explain", "prompt": "Explain how antibiotics work."}
+{"id": "real-0437", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the life cycle of a star."}
+{"id": "real-0438", "register": "explain", "prompt": "Can you explain how to budget on a low income in simple terms?"}
+{"id": "real-0439", "register": "blog", "prompt": "Write a short blog post about how to grow tomatoes."}
+{"id": "real-0440", "register": "explain", "prompt": "Can you explain the Byzantine Empire in simple terms?"}
+{"id": "real-0441", "register": "explain", "prompt": "Can you explain the history of coffee in simple terms?"}
+{"id": "real-0442", "register": "story", "prompt": "Write a short story that involves the benefits of learning a second language."}
+{"id": "real-0443", "register": "social", "prompt": "Write a LinkedIn post about the plot of Moby-Dick."}
+{"id": "real-0444", "register": "story", "prompt": "Write a short story that involves how to negotiate a salary. One or two paragraphs."}
+{"id": "real-0445", "register": "explain", "prompt": "Explain how glaciers form."}
+{"id": "real-0446", "register": "docs", "prompt": "Write a short guide on how vaccines train the immune system."}
+{"id": "real-0447", "register": "blog", "prompt": "Write a short blog post about how a refrigerator works."}
+{"id": "real-0448", "register": "story", "prompt": "Write a short story that involves how to budget on a low income."}
+{"id": "real-0449", "register": "blog", "prompt": "Write a short blog post about how to train for a first 10k run. Keep it under 200 words."}
+{"id": "real-0450", "register": "social", "prompt": "Write a LinkedIn post about what DNS is."}
+{"id": "real-0451", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to write a good cover letter. Keep it brief."}
+{"id": "real-0452", "register": "explain", "prompt": "I'm curious about the history of the bicycle. What should I know?"}
+{"id": "real-0453", "register": "qa", "prompt": "What are the most important facts about how to learn to code?"}
+{"id": "real-0454", "register": "explain", "prompt": "Explain how to care for a sourdough starter. About 150 words."}
+{"id": "real-0455", "register": "explain", "prompt": "I'm curious about the Roman Empire's fall. What should I know? Keep it brief."}
+{"id": "real-0456", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to take better smartphone photos."}
+{"id": "real-0457", "register": "story", "prompt": "Write a short story that involves how to grow tomatoes. About 150 words."}
+{"id": "real-0458", "register": "explain", "prompt": "I'm curious about the life of Marie Curie. What should I know?"}
+{"id": "real-0459", "register": "advice", "prompt": "Give me advice related to the life cycle of a star. One or two paragraphs."}
+{"id": "real-0460", "register": "qa", "prompt": "What are the most important facts about what machine learning is? About 150 words."}
+{"id": "real-0461", "register": "qa", "prompt": "What are the most important facts about the Cuban Missile Crisis?"}
+{"id": "real-0462", "register": "docs", "prompt": "Write a short guide on volcanoes. One or two paragraphs."}
+{"id": "real-0463", "register": "social", "prompt": "Write a LinkedIn post about how compound interest works."}
+{"id": "real-0464", "register": "explain", "prompt": "Can you explain the Apollo 11 mission in simple terms?"}
+{"id": "real-0465", "register": "blog", "prompt": "Write a short blog post about the basics of chess openings. Keep it brief."}
+{"id": "real-0466", "register": "qa", "prompt": "What are the most important facts about how to grow tomatoes?"}
+{"id": "real-0467", "register": "story", "prompt": "Write a short story that involves the Cuban Missile Crisis."}
+{"id": "real-0468", "register": "advice", "prompt": "Give me advice related to migration of monarch butterflies."}
+{"id": "real-0469", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the life of Marie Curie."}
+{"id": "real-0470", "register": "explain", "prompt": "Can you explain migration of monarch butterflies in simple terms? Keep it brief."}
+{"id": "real-0471", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how a bill becomes law in the US."}
+{"id": "real-0472", "register": "email", "prompt": "Write an email to a colleague summarising what you know about the Apollo 11 mission. Keep it under 200 words."}
+{"id": "real-0473", "register": "story", "prompt": "Write a short story that involves how to brew pour-over coffee. About 150 words."}
+{"id": "real-0474", "register": "explain", "prompt": "I'm curious about how earthquakes happen. What should I know?"}
+{"id": "real-0475", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to negotiate a salary. One or two paragraphs."}
+{"id": "real-0476", "register": "explain", "prompt": "I'm curious about how noise-cancelling headphones work. What should I know? Keep it brief."}
+{"id": "real-0477", "register": "blog", "prompt": "Write a short blog post about the human heart. Keep it brief."}
+{"id": "real-0478", "register": "essay", "prompt": "Write a paragraph for an essay about why the sky is blue."}
+{"id": "real-0479", "register": "docs", "prompt": "Write a short guide on urban beekeeping. One or two paragraphs."}
+{"id": "real-0480", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on how to train for a first 10k run."}
+{"id": "real-0481", "register": "explain", "prompt": "Can you explain how glaciers form in simple terms? One or two paragraphs."}
+{"id": "real-0482", "register": "blog", "prompt": "Write a short blog post about how to fix a leaking tap."}
+{"id": "real-0483", "register": "explain", "prompt": "Explain plate tectonics. Keep it under 200 words."}
+{"id": "real-0484", "register": "explain", "prompt": "Can you explain how antibiotics work in simple terms?"}
+{"id": "real-0485", "register": "advice", "prompt": "Give me advice related to why sleep matters."}
+{"id": "real-0486", "register": "essay", "prompt": "Write a paragraph for an essay about the rules of cricket."}
+{"id": "real-0487", "register": "story", "prompt": "Write a short story that involves how to give constructive feedback."}
+{"id": "real-0488", "register": "explain", "prompt": "I'm curious about the life cycle of a star. What should I know?"}
+{"id": "real-0489", "register": "advice", "prompt": "Give me advice related to how to negotiate a salary."}
+{"id": "real-0490", "register": "explain", "prompt": "Explain migration of monarch butterflies. Keep it brief."}
+{"id": "real-0491", "register": "email", "prompt": "Write an email to a colleague summarising what you know about why the sky is blue."}
+{"id": "real-0492", "register": "essay", "prompt": "Write a paragraph for an essay about plate tectonics."}
+{"id": "real-0493", "register": "advice", "prompt": "Give me advice related to the history of coffee."}
+{"id": "real-0494", "register": "blog", "prompt": "Write a short blog post about how to care for a sourdough starter. Keep it brief."}
+{"id": "real-0495", "register": "essay", "prompt": "Write a paragraph for an essay about the human heart."}
+{"id": "real-0496", "register": "blog", "prompt": "Write a short blog post about the Silk Road."}
+{"id": "real-0497", "register": "docs", "prompt": "Write a short guide on why sleep matters."}
+{"id": "real-0498", "register": "advice", "prompt": "Give me advice related to the Great Barrier Reef."}
+{"id": "real-0499", "register": "email", "prompt": "Write a friendly email to my team introducing a lunch-and-learn session on the Byzantine Empire. One or two paragraphs."}
+{"id": "real-0500", "register": "explain", "prompt": "I'm curious about how GPS works. What should I know?"}
+{"id": "real-0501", "register": "explain", "prompt": "Explain how to give constructive feedback."}
+{"id": "real-0502", "register": "essay", "prompt": "Write a paragraph for an essay about how to make a simple budget spreadsheet."}
+{"id": "real-0503", "register": "docs", "prompt": "Write a short guide on the difference between weather and climate."}
+{"id": "real-0504", "register": "email", "prompt": "Write an email to a colleague summarising what you know about why we dream."}
+{"id": "real-0505", "register": "qa", "prompt": "What are the most important facts about the Byzantine Empire?"}
+{"id": "real-0506", "register": "explain", "prompt": "Explain the basics of supply and demand."}
+{"id": "real-0507", "register": "email", "prompt": "Write an email to a colleague summarising what you know about how to make a simple budget spreadsheet."}
+{"id": "real-0508", "register": "explain", "prompt": "I'm curious about how to take better smartphone photos. What should I know?"}
+{"id": "real-0509", "register": "email", "prompt": "Write an email to a colleague summarising what you know about what DNS is."}
+{"id": "real-0510", "register": "blog", "prompt": "Write a short blog post about photosynthesis."}
+{"id": "real-0511", "register": "docs", "prompt": "Write a short guide on how to write a good cover letter. One or two paragraphs."}
+{"id": "real-0512", "register": "essay", "prompt": "Write a paragraph for an essay about the Industrial Revolution."}
+{"id": "real-0513", "register": "explain", "prompt": "Explain the Cuban Missile Crisis."}
+{"id": "real-0514", "register": "essay", "prompt": "Write a paragraph for an essay about the Roman Empire's fall."}
+{"id": "real-0515", "register": "explain", "prompt": "Explain what inflation is. Keep it under 200 words."}
+{"id": "real-0516", "register": "explain", "prompt": "Explain how to budget on a low income."}
+{"id": "real-0517", "register": "social", "prompt": "Write a LinkedIn post about how to prepare for a job interview."}
+{"id": "real-0518", "register": "qa", "prompt": "What are the most important facts about why the sky is blue?"}
+{"id": "real-0519", "register": "explain", "prompt": "Explain the causes of the French Revolution."}
